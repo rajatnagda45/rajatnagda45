@@ -19,41 +19,68 @@ Currently focusing on **Full Stack Development, Cloud Computing, and AI tools**.
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Python](https://skillicons.dev/icons?i=python)
 ![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![Bash](https://skillicons.dev/icons?i=bash)
 
-### 🌐 Frontend
+---
+
+### 🌐 Frontend Development
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 ![NextJS](https://skillicons.dev/icons?i=next)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-### ⚙️ Backend
+---
+
+### ⚙️ Backend Development
 
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Flask](https://skillicons.dev/icons?i=flask)
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
-### 🗄️ Database
+---
+
+### 🗄️ Databases
 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-### ☁️ Cloud & Tools
+---
+
+### ☁️ Cloud & DevOps
 
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![GCP](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+### 📊 Data & Visualization
+
+![NumPy](https://skillicons.dev/icons?i=python)
+![Pandas](https://skillicons.dev/icons?i=python)
+![Plotly](https://skillicons.dev/icons?i=python)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
 
 ---
 
