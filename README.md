@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rajat Nagda
 
-# 🚀 **Full Stack Developer | AI Enthusiast | Open Source Learner**
+🚀 **Full Stack Developer | AI Enthusiast | Open Source Learner**
 
 I’m a developer passionate about building **scalable web applications and AI-powered solutions**.
 Currently focusing on **Full Stack Development, Cloud Computing, and AI tools**.
