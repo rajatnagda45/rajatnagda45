@@ -57,18 +57,6 @@ Currently focusing on **Full Stack Development, Cloud Computing, and AI tools**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatnagda45\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rajatnagda45\&theme=tokyonight)
-
----
-
 ## 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatnagda45\&layout=compact\&theme=tokyonight)
