@@ -1,4 +1,14 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on Full Stack Web Development projects and AI powered projects
+👯 I’m looking to collaborate on Open Source and AI-based projects
+🤝 I’m looking for help with advanced backend architecture and system design
+🌱 I’m currently learning MERN Stack, Cloud Computing, and AI tools
+💬 Ask me about JavaScript, React, Node.js, and Web Development
+⚡ Fun fact: I love building projects that solve real-world problems
+💻 Tech Stack: JavaScript, React, Node.js, Express, MongoDB, Python
+
+💻 Tech Stack:
+HTML5 Java JavaScript Python TypeScript CSS3 AWS Vercel Render Google Cloud Flask FastAPI React React Native Next JS NPM NodeJS Nodemon Express.js MongoDB MySQL SQLite Supabase NumPy Pandas Plotly Power Bi
 
 <!--
 **rajatnagda45/rajatnagda45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
