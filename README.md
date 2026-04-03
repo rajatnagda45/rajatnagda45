@@ -86,7 +86,7 @@ Currently focusing on **Full Stack Development, Cloud Computing, and AI tools**.
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatnagda45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajatnagda45&layout=compact&theme=tokyonight)
 
 ---
 
