@@ -86,13 +86,13 @@ Currently focusing on **Full Stack Development, Cloud Computing, and AI tools**.
 
 ## 📈 Most Used Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-32%25-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-18%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-28%25-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-22%25-blue)
 ![Python](https://img.shields.io/badge/Python-28%25-green)
-![HTML](https://img.shields.io/badge/HTML-10%25-orange)
-![CSS](https://img.shields.io/badge/CSS-6%25-blue)
-![SQL](https://img.shields.io/badge/SQL-4%25-lightgrey)
-![Bash](https://img.shields.io/badge/Bash-2%25-darkgreen)
+![HTML](https://img.shields.io/badge/HTML-7%25-orange)
+![CSS](https://img.shields.io/badge/CSS-5%25-blue)
+![SQL](https://img.shields.io/badge/SQL-6%25-lightgrey)
+![Bash](https://img.shields.io/badge/Bash-4%25-darkgreen)
 
 ---
 
