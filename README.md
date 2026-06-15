@@ -10,7 +10,7 @@ Currently focusing on **Full Stack Development, Cloud Computing, and AI tools**.
 ## 🚀 About Me
 
 * 🔭 I’m currently working on **Full Stack Web Development and AI-based projects**
-* 🌱 I’m currently learning **MERN Stack, System Design, and Cloud (AWS / GCP)**
+* 🌱 I’m currently learning **MERN Stack, System Design, Machine Learning, and Cloud (AWS / GCP)**
 * 👯 I’m looking to collaborate on **Open Source and innovative projects**
 * 💬 Ask me about **JavaScript, React, Node.js, APIs, and Web Development**
 * ⚡ Fun fact: I love **turning ideas into real-world applications**
