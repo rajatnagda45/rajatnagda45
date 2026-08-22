@@ -1,17 +1,10 @@
 # 👋 Hey, I'm Rajat Nagda
 
-### Full Stack Engineer • AI/ML Builder • Systems & Product Engineering
+### Full Stack Engineer • AI/ML Developer  • Open Source Contributor  • Systems & Product Engineering
 
 > I build **production-oriented web applications, AI-powered systems, and developer-focused products** — from intuitive interfaces and scalable APIs to intelligent retrieval pipelines and cloud infrastructure.
 
 I'm currently focused on combining **Full Stack Engineering + AI** to build software that is not only functional, but **scalable, maintainable, observable, and genuinely useful**.
-
-<p align="left">
-  <a href="https://github.com/rajatnagda45">
-    <img src="https://img.shields.io/github/followers/rajatnagda45?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=rajatnagda45&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
 
 ---
 
