@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rajat Nagda
+# Hey, I'm Rajat Nagda
 
 ### Full Stack Engineer • AI/ML Developer  • Open Source Contributor  • Systems & Product Engineering
 
