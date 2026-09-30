@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Rajat Nagda
+# Rajat Nagda
 
-### Full Stack Engineer • AI/ML Developer • Open Source Contributor
+### Full Stack Engineer | AI/ML Engineer | Systems & Product Engineering | Open Source Contributor
 
-> I build **scalable web apps, AI-powered systems, and intelligent products** — from polished UIs and robust APIs to RAG pipelines and cloud infrastructure.
+> Building **production-ready software, AI-powered applications, and scalable systems** across the full stack.
 
-⚡ **Full Stack + AI | Systems | Cloud | Open Source**
+I work across **backend, AI/ML, frontend, cloud, and system architecture**, with a focus on writing reliable code and turning complex ideas into practical products.
 
-Currently focused on turning **ideas into production-ready software** that is scalable, reliable, and genuinely useful.
+**Full Stack • AI/ML • RAG • Cloud • System Design • Open Source**
 
 ---
